@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1482462183,
+	"version": 1482462642,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -36,7 +36,6 @@
 		"images/enemylaser-sheet0.png",
 		"images/fighterenemy-sheet0.png",
 		"images/rocketbutton-sheet0.png",
-		"images/facebooklogin-sheet0.png",
 		"media/lazer fire 1.m4a",
 		"media/lazer fire 1.ogg",
 		"media/explosion 1.m4a",
